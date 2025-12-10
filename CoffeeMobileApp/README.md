@@ -1,6 +1,7 @@
 # CoffeeApp
 
 This is a React Native / Expo port of the LVGL Coffee Vending Machine interface.
+Final apk file also added
 
 ## Setup
 
@@ -11,6 +12,4 @@ This is a React Native / Expo port of the LVGL Coffee Vending Machine interface.
 ## Features
 
 -   **Make it Yours**: Drag and drop ingredients into the cup.
--   **Mood Detection**: The app guesses your mood based on your mix.
--   **Tic-Tac-Toe**: Play to win a discount.
 -   **Menu**: Select from preset coffee types.
